@@ -1,6 +1,4 @@
-Here’s a **short, polished, professional README** you can directly use for your GitHub project 👇
 
----
 
 ## 🩺 Detecting Lung Cancer Using Patient Diagnosis Data
 
