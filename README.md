@@ -72,7 +72,3 @@ It includes **EDA, preprocessing, outlier handling, feature encoding, model trai
 * The workflow ensures full reproducibility and scalability for healthcare prediction use cases.
 
 ---
-
-
-
-Would you like me to also generate a **`requirements.txt`** file listing the exact libraries (Pandas, Scikit-learn, Seaborn, etc.) for your GitHub project?
